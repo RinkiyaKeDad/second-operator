@@ -1,3 +1,5 @@
+Built following [this](https://yash-kukreja-98.medium.com/develop-on-kubernetes-series-operator-dev-the-introduction-1dcbaadc9fa7) blog.
+
 ### Kubebuilder commands use to set up the project
 
 ```
